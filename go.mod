@@ -1,4 +1,4 @@
-module github.com/kenzo0107/backlog
+module github.com/massakurai/go-backlog
 
 go 1.19
 
